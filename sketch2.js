@@ -13,8 +13,8 @@ function setup() {
   mic = new p5.AudioIn();
   mic.start();
 
-  bgColor = color(0); // Set background color to black
-  textColor = color(255); // Default text color to white
+  bgColor = color(0);
+  textColor = color(255);
 }
 
 function draw() {
