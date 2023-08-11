@@ -11,6 +11,8 @@ Agenda:
 
 Title: "Betha-Z: Engaging Plastic's Impact and Innovation through Art, Coding, and Active Participation"
 
+Authored by Vika Shcherbak and Hannes Stein
+
 In the thought-provoking art installation "Betha-Z," participants find themselves immersed in a future world grappling with plastic waste. The installation's intricate design conveys both the challenges posed by plastic pollution and the potential solutions that can reshape our trajectory. Through a fusion of art, technology, coding, and audience engagement, "Betha-Z" incorporates moving components that are captured by cameras and seamlessly woven into an asciletters display on a monitor.
 This interactive presentation not only underscores the pressing need to address plastic waste within our globally connected society but also emphasizes the role of coding and individual action in forging sustainable pathways. As participants navigate the installation, they become integral to the artistic narrative – their movements and presence are captured, transcoded into the digital realm, and projected onto the monitor, where they become a dynamic part of the evolving ASCII showcase.
 "Betha-Z" encourages participants to reflect on their personal contribution to the plastic issue and invites them to envision a future where innovation, technology, and collective effort converge to combat the crisis. By actively becoming a part of the artwork, attendees gain a profound sense of their interconnectedness with the challenges and solutions represented. This immersive experience acts as a catalyst for dialogue and inspiration, motivating participants to explore their potential impact on creating a more sustainable future.
