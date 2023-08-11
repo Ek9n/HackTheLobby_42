@@ -1,10 +1,14 @@
 # HackTheLobby_42
 Objective: 
 Create something cool for the lobby screens. Develop something visually stunning, interactive, entertaining, and intelligent that captivates other students and visitors. 
+![20230811_164607](https://github.com/Ek9n/HackTheLobby_42/assets/119967017/229c45bf-7c55-4b30-9d8f-93eacf5b0193)
 
 #########################################################
-
+![20230811_152835](https://github.com/Ek9n/HackTheLobby_42/assets/119967017/7327b492-d6e3-4966-b494-bc0b23414c9f)
+![20230811_164544](https://github.com/Ek9n/HackTheLobby_42/assets/119967017/ebddaf7a-863c-4e69-9972-3bf6872e79b9)
+![20230811_162643](https://github.com/Ek9n/HackTheLobby_42/assets/119967017/e14e3143-f64b-4086-8778-487c5b5d1b5f)
 Agenda:
+
 10:00: Brunch and team formation 10:30: Programming session begins 16:30: Deployment of projects to the lobby screens 17:00: Pitches 18:00: Event officially ends Optional: 18:30 Pizza (joint with the end-of-piscine party)
 
 #########################################################
