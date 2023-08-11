@@ -2,11 +2,11 @@
 Objective: 
 Create something cool for the lobby screens. Develop something visually stunning, interactive, entertaining, and intelligent that captivates other students and visitors. 
 
-################################################################################################################################################################################
+#########################################################
 Agenda:
 10:00: Brunch and team formation 10:30: Programming session begins 16:30: Deployment of projects to the lobby screens 17:00: Pitches 18:00: Event officially ends Optional: 18:30 Pizza (joint with the end-of-piscine party)
 
-################################################################################################################################################################################
+#########################################################
 Title: "Betha-Z: Engaging Plastic's Impact and Innovation through Art, Coding, and Active Participation"
 
 In the thought-provoking art installation "Betha-Z," participants find themselves immersed in a future world grappling with plastic waste. The installation's intricate design conveys both the challenges posed by plastic pollution and the potential solutions that can reshape our trajectory. Through a fusion of art, technology, coding, and audience engagement, "Betha-Z" incorporates moving components that are captured by cameras and seamlessly woven into an asciletters display on a monitor.
