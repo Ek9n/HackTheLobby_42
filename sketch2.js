@@ -34,7 +34,7 @@ function draw() {
 
       const rColor = map(audioLevel * 10, 0, 1, 0, 255);
       const gColor = map(audioLevel * 10, 0, 1, 255, 0);
-      const bColor = map(brightness * 10, 0, 255, 0, 255);
+      const bColor = map(audioLevel * 1, 0, 255, 0, 255);
       const textColor = color(rColor, gColor, bColor);
 
       fill(textColor);
