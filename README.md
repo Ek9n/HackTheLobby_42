@@ -19,6 +19,8 @@ This interactive presentation not only underscores the pressing need to address 
 "Betha-Z" encourages participants to reflect on their personal contribution to the plastic issue and invites them to envision a future where innovation, technology, and collective effort converge to combat the crisis. By actively becoming a part of the artwork, attendees gain a profound sense of their interconnectedness with the challenges and solutions represented. This immersive experience acts as a catalyst for dialogue and inspiration, motivating participants to explore their potential impact on creating a more sustainable future.
 As the boundaries between spectator and art blur within the "Betha-Z" installation, coding serves as a pivotal element, underlining the transformative role it plays in devising and implementing solutions. Through this synthesis of art, technology, coding, and audience participation, "Betha-Z" emerges as a compelling call to action – a reminder that confronting plastic waste demands both creative innovation and individual commitment.
 
+<kbd><a href="https://ek9n.github.io/HackTheLobby_42/">CHECK IT HERE</a></kbd>
+
 ![20230811_164607](https://github.com/Ek9n/HackTheLobby_42/assets/119967017/229c45bf-7c55-4b30-9d8f-93eacf5b0193)
 ![20230811_152835](https://github.com/Ek9n/HackTheLobby_42/assets/119967017/7327b492-d6e3-4966-b494-bc0b23414c9f)
 ![20230811_164544](https://github.com/Ek9n/HackTheLobby_42/assets/119967017/ebddaf7a-863c-4e69-9972-3bf6872e79b9)
